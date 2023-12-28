@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "goenkija",
+    "password": null,
+    "database": "odin_auth_basics_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "goenkija",
+    "password": null,
+    "database": "odin_auth_basics_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
